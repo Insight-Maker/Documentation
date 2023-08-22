@@ -1,4 +1,4 @@
-Example Page Title
+Starter Tutorial
 **************
 
 
