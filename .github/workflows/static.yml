@@ -45,8 +45,10 @@ jobs:
           poetry install
           deactivate
       - name: Build docs with sphinx
-        run: sphinx-build -b html . _build
-
+        run: |
+          . .venv/bin/activate
+          sphinx-build -b html . _build
+          deactivate
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
