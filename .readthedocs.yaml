@@ -16,7 +16,7 @@ build:
       - asdf install poetry latest
       - asdf global poetry latest
     post_install:
-      - poetry env use $READTHEDOCS_VIRTUALENV_PATH/bin/python3
+      - . $READTHEDOCS_VIRTUALENV_PATH/bin/activate
       - poetry install
 
 # Build documentation with Sphinx
