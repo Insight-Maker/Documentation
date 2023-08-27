@@ -15,10 +15,12 @@ build:
       - asdf plugin add poetry
       - asdf install poetry latest
       - asdf global poetry latest
-    post_install:
-      - . $READTHEDOCS_VIRTUALENV_PATH/bin/activate
-      - poetry install
+      - poetry export -f requirements.txt --output requirements.txt
 
 # Build documentation with Sphinx
 sphinx:
    configuration: conf.py
+
+python:
+  install:
+   - requirements: requirements.txt
