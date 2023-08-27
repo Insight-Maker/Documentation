@@ -15,8 +15,8 @@ build:
       - asdf plugin add poetry
       - asdf install poetry latest
       - asdf global poetry latest
-      - poetry config virtualenvs.create false
     post_install:
+      - echo $READTHEDOCS_VIRTUALENV_PATH
       - poetry install
 
 # Build documentation with Sphinx
