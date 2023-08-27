@@ -17,6 +17,7 @@ build:
       - asdf global poetry latest
     post_install:
       - echo $READTHEDOCS_VIRTUALENV_PATH
+      - ls -R $READTHEDOCS_VIRTUALENV_PATH
       - poetry install
 
 # Build documentation with Sphinx
