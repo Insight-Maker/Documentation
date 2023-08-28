@@ -1,7 +1,5 @@
 # Features
 
-#### Guides
-
 ```{toctree}
 ---
 maxdepth: 1

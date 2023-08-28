@@ -2,7 +2,7 @@
 
 ![](/_static/features/insight_nih_reporter.png)
 
-## Key Features
+## Overview: What is NIH RePORTER?
 
 ### Grant Search: 
 This tool allows for an in-depth exploration of NIH-funded projects. Users can specify their search by grant type, funding agency, or research domain, among other criteria.
