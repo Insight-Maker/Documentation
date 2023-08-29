@@ -52,9 +52,5 @@ html_theme = "furo"
 html_title = project
 html_static_path = ["_static"]
 
-html_theme_options = {
-    "sidebar_hide_name": True,
-}
-
 nb_execution_mode = "off"
 autodoc_pydantic_model_show_json_error_strategy = "coerce"
