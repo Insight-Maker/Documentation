@@ -26,17 +26,11 @@ That's where **Insight** comes in.
 
 Insight provides the following tools:
 
-- **Literature Connectors** draw from an extensive repository of peer-reviewed publications, ensuring your research is backed by the latest findings.
-   - Pubmed
-
+- **Literature Connectors** draw from Pubmed, an extensive repository of peer-reviewed publications, ensuring your research is backed by the latest findings.
 - **Data Insights** offer a deep dive into specific genes through MyGene and mutation intricacies via MyVariant.
-   - MYGENE
-   - MYPATHWAY
-
 - **Hypothesis Formulator** crafts and refines potential research directions based on existing literature.
 - **Experimental Design Assistant** guides the creation of robust and credible research methodologies.
-- **Grant Database Explorer** leverages the Reporter API, opening doors to a vast world of NIH funded grants, streamlining grant application processes.
-   - NIH RePORTER
+- **Grant Database Explorer** leverages the NIH RePORTER, opening doors to a vast world of NIH funded grants, streamlining grant application processes.
 
 
 👨‍👩‍👧‍👦 Who is Insight for?
@@ -49,7 +43,7 @@ Beginners can seamlessly tap into our resources, while advanced users can delve 
 Getting Started
 *************************
 
-Our documentation includes a `Starter Tutorial <./getting_started/starter_example.html>`_ to run your first objective.
+Our documentation includes a `Starter Tutorial <./documents/getting_started.md>`_ to run your first objective.
 
 Community
 ---------
