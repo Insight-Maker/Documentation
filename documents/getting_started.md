@@ -1,3 +1,5 @@
+![](/_static/main/insight_getting_started.png)
+
 # Getting Started with Insight
 
 Welcome to the Insight getting started guide! If you're new to the platform or simply looking for a refresher, you're in the right place. By the end of this guide, you will be able to define a research objective and have Insight conduct a literature review, formulate hypotheses, and aid in the design of an experiment.
