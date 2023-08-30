@@ -60,7 +60,7 @@ Need help? Have a feature suggestion? Join the Insight community:
    .. documents/news.md
    .. documents/best_practices.md
    .. documents/outputs.md
-   ..documents/features.md
+   documents/features.md
    .. documents/case_studies.md
    .. documents/technical_specifications.md
    .. documents/faq.md
