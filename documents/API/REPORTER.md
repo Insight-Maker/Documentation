@@ -1,31 +1,29 @@
-# NIH RePORTER
-
 ![](/_static/features/insight_nih_reporter.png)
 
-## Overview: What is NIH RePORTER?
+# NIH RePORTER
 
-### Grant Search: 
-This tool allows for an in-depth exploration of NIH-funded projects. Users can specify their search by grant type, funding agency, or research domain, among other criteria.
+##### Overview: What is NIH RePORTER?
 
-### Researcher Discovery: 
-This aspect provides a clear overview of researchers and their respective funded projects. It's an efficient way to understand the current landscape of research professionals and their areas of expertise.
+NIH RePORTER is an electronic tool provided by the National Institutes of Health to access reports, data, and analyses of NIH research activities. It provides crucial information about ongoing funded research, enabling users to learn about the latest research endeavors, discover peer-reviewed but yet unpublished work, and identify potential collaborators.
 
-### Real-Time Updates: 
-The integration ensures that the information from NIH Reporter is always current. As NIH updates its database, these changes are immediately reflected within Insight.
+##### Usage: How to use NIH RePORTER on Insight
 
-### Detailed Grant Overviews: 
-For each grant, Insight provides an encompassing view, detailing the funding amount, the length of the project, its specific research objectives, and any linked publications.
+1- Start with defining an objective as guided in our [Getting Started with Insight](../getting_started.md) tutorial.
 
-### Grant Recommendations: 
-Utilizing the power of AI, Insight analyses user's research preferences and search history to suggest relevant NIH grants, offering a more personalized exploration experience.
+2- Among the array of tasks available, opt for an 'NIH RePORTER' task.
 
+3- If the existing task options don't align with your needs, or if the chosen task doesn't yield relevant NIH funded research data, you have the capability to customize your own NIH RePORTER task.
 
-## Benefits of NIH RePORTER Integration
+4- Upon executing an NIH RePORTER task, delve deeper by choosing another task to enhance your understanding. This could encompass additional NIH RePORTER tasks or any other suitable tasks.
 
-By combining Insight's AI capabilities with NIH Reporter's exhaustive grant database, researchers are equipped with a powerful tool that:
+5- Details from NIH RePORTER will be enlisted under citations for your reference.
 
-- Saves time in grant discovery.
-- Aids in identifying potential funding opportunities.
-- Facilitates knowledge sharing and collaboration.
-- Enhances the overall research design and direction through grant insights.
+##### Applications:
 
+NIH RePORTER is indispensable for anyone keen on staying updated with the current panorama of funded research. With its exhaustive database:
+
+- Get insights into the ongoing research ventures funded by the NIH.
+
+- Spot peer-reviewed yet unpublished works, providing a sneak peek into emerging scientific narratives.
+
+- Recognize and connect with potential collaborators, opening doors for future research collaborations.
