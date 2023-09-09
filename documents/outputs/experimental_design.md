@@ -1,33 +1,27 @@
+![](/_static/outputs/insight_experimental_design.png)
+
 # Experimental Design
 
-![](/_static/getting_started/Insight_NIH.png)
+### Overview: What is the Experimental Design?
 
-## Key Features
+Experimental Design is the structured approach taken by Insight to test a given hypothesis. The AI lays out a series of experiments detailing objectives, materials and resources, procedures, anticipated outcomes, timelines, budgets, and potential challenges and alternatives for each experiment. This structured layout allows researchers to approach the hypothesis with a clear plan in place, ensuring organized and impactful research.
 
-### Grant Search: 
-This tool allows for an in-depth exploration of NIH-funded projects. Users can specify their search by grant type, funding agency, or research domain, among other criteria.
+### Usage: How to Access the Experimental Design on Insight?
 
-### Researcher Discovery: 
-This aspect provides a clear overview of researchers and their respective funded projects. It's an efficient way to understand the current landscape of research professionals and their areas of expertise.
+1- After generating a hypothesis, click on the "Generate Experimental Design" option paired with the desired hypothesis.
 
-### Real-Time Updates: 
-The integration ensures that the information from NIH Reporter is always current. As NIH updates its database, these changes are immediately reflected within Insight.
+2- The platform will display a comprehensive experimental design specific to that hypothesis.
 
-### Detailed Grant Overviews: 
-For each grant, Insight provides an encompassing view, detailing the funding amount, the length of the project, its specific research objectives, and any linked publications.
+### Application: Why is the Experimental Design Useful?
 
-### Grant Recommendations: 
-Utilizing the power of AI, Insight analyses user's research preferences and search history to suggest relevant NIH grants, offering a more personalized exploration experience.
+- **Structured Research**: Provides a clear and organized plan for executing research, minimizing guesswork and ensuring that researchers have a clear roadmap to follow.
 
+- **Budget and Time Estimates**: By laying out the anticipated budget and timeline for each experiment, researchers can efficiently allocate resources and plan their research timelines.
 
-## Benefits of NIH RePORTER Integration
+- **Anticipates Challenges**: Every experimental design includes potential challenges and alternatives, preparing researchers for possible obstacles and how they might navigate them.
 
-By combining Insight's AI capabilities with NIH Reporter's exhaustive grant database, researchers are equipped with a powerful tool that:
+- *In-depth Analysis*: Multiple experiments, from in vitro to in vivo to retrospective studies, offer a comprehensive approach to testing the hypothesis from different angles.
 
-- Saves time in grant discovery.
-- Aids in identifying potential funding opportunities.
-- Facilitates knowledge sharing and collaboration.
-- Enhances the overall research design and direction through grant insights.
+- **Facilitates Decision Making**: The detailed experimental design allows stakeholders, including funding agencies or institutional review boards, to understand the scope and depth of the proposed research, aiding in decision-making processes.
 
-
-
+By tapping into the Experimental Design feature, researchers gain a structured, comprehensive, and actionable plan that greatly aids in the process of hypothesis testing. Insight ensures that every potential avenue of research is explored, maximizing the potential for breakthrough discoveries.

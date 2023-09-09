@@ -58,6 +58,7 @@ Need help? Have a feature suggestion? Join the Insight community:
    
    documents/getting_started.md
    documents/features.md
+   documents/outputs.md
    documents/change_the_world.md
    documents/contact_us.md
    documents/about_us.md

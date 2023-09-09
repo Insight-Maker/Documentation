@@ -1,33 +1,25 @@
+![](/_static/outputs/insight_citations.png)
+
 # Citations
 
-![](/_static/getting_started/Insight_NIH.png)
+### Overview: What are the Citations?
 
-## Key Features
+Citations represent the references and sources that Insight draws upon to provide data, summaries, hypotheses, and experimental designs. They ensure that the scientific findings and recommendations are backed by peer-reviewed, credible research.
 
-### Grant Search: 
-This tool allows for an in-depth exploration of NIH-funded projects. Users can specify their search by grant type, funding agency, or research domain, among other criteria.
+### Usage: How to Access the Citations on Insight?
 
-### Researcher Discovery: 
-This aspect provides a clear overview of researchers and their respective funded projects. It's an efficient way to understand the current landscape of research professionals and their areas of expertise.
+1- After running a task and reviewing outputs such as the Scientific Summary or Experimental Design, navigate to the "Citations" section located at the bottom.
 
-### Real-Time Updates: 
-The integration ensures that the information from NIH Reporter is always current. As NIH updates its database, these changes are immediately reflected within Insight.
+2- Here, you will find a list of articles and publications that Insight utilized to generate its conclusions.
 
-### Detailed Grant Overviews: 
-For each grant, Insight provides an encompassing view, detailing the funding amount, the length of the project, its specific research objectives, and any linked publications.
+### Application: Why is the Citations Useful?
 
-### Grant Recommendations: 
-Utilizing the power of AI, Insight analyses user's research preferences and search history to suggest relevant NIH grants, offering a more personalized exploration experience.
+- **Credibility**: Citations offer a guarantee that the data and recommendations provided by Insight are rooted in existing scientific research.
 
+- **Further Reading**: For researchers keen on diving deeper into specific topics or findings, citations provide direct links to the original articles.
 
-## Benefits of NIH RePORTER Integration
+- **Transparency**: Citations enable users to understand the primary sources of the information, ensuring complete transparency in the research process.
 
-By combining Insight's AI capabilities with NIH Reporter's exhaustive grant database, researchers are equipped with a powerful tool that:
+- **Updated Information**: With access to up-to-date publications, Insight ensures that the most recent and relevant research informs its outputs.
 
-- Saves time in grant discovery.
-- Aids in identifying potential funding opportunities.
-- Facilitates knowledge sharing and collaboration.
-- Enhances the overall research design and direction through grant insights.
-
-
-
+By integrating the Citations feature, Insight strengthens the depth and reliability of its research outputs, ensuring that users remain informed and confident in the research journey.
