@@ -43,7 +43,7 @@ Beginners can seamlessly tap into our resources, while advanced users can delve 
 Getting Started
 *************************
 
-Our documentation includes a `Starter Tutorial <./documents/getting_started.md>`_ to run your first objective.
+Our documentation includes a `Starter Tutorial <./documents/getting_started.html>`_ to run your first objective.
 
 Community
 ---------
