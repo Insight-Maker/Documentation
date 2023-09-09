@@ -14,4 +14,4 @@ support@insightai.dev
 
 [Twitter - X](https://twitter.com/InsightMakerAI/)
 
-[LinkedIn](https://twitter.com/InsightMakerAI/)
+[LinkedIn](https://www.linkedin.com/company/insight-ai-research/)

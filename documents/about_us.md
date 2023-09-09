@@ -21,7 +21,7 @@ In the first two weeks after our inception, we've achieved over 1,000 research o
 
 **Clay O'Neil**<br>
 Co-founder<br>
-clay@insightmaker.ai
+[clay@insightmaker.ai](mailto:clay@insightmaker.ai)
 <br><br>
 **Nate Larsen**<br>
 Fullstack Engineer
@@ -31,7 +31,7 @@ Fullstack Engineer
 
 **Edward Ayoub**<br>
 Co-founder<br>
-edward@insightmaker.ai
+[edward@insightmaker.ai](mailto:edward@insightmaker.ai)
 <br><br>
 **Elena Gonzalez**<br>
 Digital Marketing and Design Specialist
