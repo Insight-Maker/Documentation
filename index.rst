@@ -57,11 +57,14 @@ Need help? Have a feature suggestion? Join the Insight community:
    :hidden:
    
    documents/getting_started.md
+   documents/features.md
+   documents/change_the_world.md
+   documents/contact_us.md
+   documents/about_us.md
    .. documents/news.md
    .. documents/best_practices.md
    .. documents/outputs.md
-   documents/features.md
    .. documents/case_studies.md
    .. documents/technical_specifications.md
    .. documents/faq.md
-   .. documents/contact_support.md
+   
